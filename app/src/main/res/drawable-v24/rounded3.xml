@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ #Tanggal Pengerjaan : 29 mei 2021
+  #Nim   : 10118018
+  #Nama  : irman Novryansah
+  #kelsa : if-1
+  -->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+
+            <solid android:color="@color/PrimerGreen600"/>
+            <corners
+                android:radius="8dp"
+                android:bottomLeftRadius="0dp"
+                android:topLeftRadius="0dp"
+               />
+
+        </shape>
+    </item>
+</selector>
